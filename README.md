@@ -5,4 +5,4 @@ This game is made using C# and the Unity Engine. It is a 2D platforming runner g
 
 One Button Runner uses music by Geoplex.
 
-An active version of this game can be found at the following website: https://pjaer.itch.io/one-button-runner
+This game took 3 days to make completely. It is the first game I have ever finished, despite dabbling in much more complex stuff, hope you enjoy! An active version of this game can be found at the following website: https://pjaer.itch.io/one-button-runner
